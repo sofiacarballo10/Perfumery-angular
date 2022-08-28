@@ -1,0 +1,7 @@
+{
+  "name": "perfumery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
